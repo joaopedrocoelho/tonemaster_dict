@@ -1,0 +1,2002 @@
+﻿[
+  {
+    "traditional": "名字",
+    "pinyin": "míngzi"
+  },
+  {
+    "traditional": "姓",
+    "pinyin": "xìng "
+  },
+  {
+    "traditional": "姓名",
+    "pinyin": "xìngmíng "
+  },
+  {
+    "traditional": "生日",
+    "pinyin": "shēngrì "
+  },
+  {
+    "traditional": "來",
+    "pinyin": "lái "
+  },
+  {
+    "traditional": "公園",
+    "pinyin": "gōngyuán "
+  },
+  {
+    "traditional": "住",
+    "pinyin": "zhù "
+  },
+  {
+    "traditional": "國家",
+    "pinyin": "guójiā "
+  },
+  {
+    "traditional": "中國",
+    "pinyin": "zhōngguó "
+  },
+  {
+    "traditional": "台灣",
+    "pinyin": "táiwān"
+  },
+  {
+    "traditional": "美國",
+    "pinyin": "měiguó "
+  },
+  {
+    "traditional": "日本",
+    "pinyin": "rìběn "
+  },
+  {
+    "traditional": "人",
+    "pinyin": "rén "
+  },
+  {
+    "traditional": "城市",
+    "pinyin": "chéngshì "
+  },
+  {
+    "traditional": "街",
+    "pinyin": "jiē "
+  },
+  {
+    "traditional": "路",
+    "pinyin": "lù "
+  },
+  {
+    "traditional": "號",
+    "pinyin": "hào "
+  },
+  {
+    "traditional": "號碼",
+    "pinyin": "hàomǎ "
+  },
+  {
+    "traditional": "電話",
+    "pinyin": "diànhuà "
+  },
+  {
+    "traditional": "手機",
+    "pinyin": "shǒujī "
+  },
+  {
+    "traditional": "打電話",
+    "pinyin": "dǎdiànhuà "
+  },
+  {
+    "traditional": "電子郵件",
+    "pinyin": "diàn​zǐ​yóu​jiàn"
+  },
+  {
+    "traditional": "結婚",
+    "pinyin": "jiéhūn "
+  },
+  {
+    "traditional": "年",
+    "pinyin": "nián "
+  },
+  {
+    "traditional": "去年",
+    "pinyin": "qùnián "
+  },
+  {
+    "traditional": "明年",
+    "pinyin": "míngnián "
+  },
+  {
+    "traditional": "今年",
+    "pinyin": "jīnnián "
+  },
+  {
+    "traditional": "月",
+    "pinyin": "yuè "
+  },
+  {
+    "traditional": "日",
+    "pinyin": "rì "
+  },
+  {
+    "traditional": "時候",
+    "pinyin": "shíhòu "
+  },
+  {
+    "traditional": "小時",
+    "pinyin": "xiǎoshí "
+  },
+  {
+    "traditional": "點",
+    "pinyin": "diǎn"
+  },
+  {
+    "traditional": "點鐘",
+    "pinyin": "diǎnzhōng"
+  },
+  {
+    "traditional": "分 ",
+    "pinyin": "fēn"
+  },
+  {
+    "traditional": "分鐘",
+    "pinyin": "fēnzhōng"
+  },
+  {
+    "traditional": "早上",
+    "pinyin": "zǎoshang "
+  },
+  {
+    "traditional": "上午",
+    "pinyin": "shàngwǔ "
+  },
+  {
+    "traditional": "中午",
+    "pinyin": "zhōngwǔ "
+  },
+  {
+    "traditional": "下午",
+    "pinyin": "xiàwǔ "
+  },
+  {
+    "traditional": "晚上",
+    "pinyin": "wǎnshang "
+  },
+  {
+    "traditional": "星期",
+    "pinyin": "xīngqí"
+  },
+  {
+    "traditional": "星期天/星期日",
+    "pinyin": "xīngqítiān/xīngqírì "
+  },
+  {
+    "traditional": "週末/周末",
+    "pinyin": "zhōumò "
+  },
+  {
+    "traditional": "天",
+    "pinyin": "tiān "
+  },
+  {
+    "traditional": "天 ",
+    "pinyin": "tiān "
+  },
+  {
+    "traditional": "昨天",
+    "pinyin": "zuótiān "
+  },
+  {
+    "traditional": "今天",
+    "pinyin": "jīntiān "
+  },
+  {
+    "traditional": "明天",
+    "pinyin": "míngtiān "
+  },
+  {
+    "traditional": "現在",
+    "pinyin": "xiànzài "
+  },
+  {
+    "traditional": "夏天",
+    "pinyin": "xiàtiān "
+  },
+  {
+    "traditional": "冬天",
+    "pinyin": "dōngtiān "
+  },
+  {
+    "traditional": "秋天",
+    "pinyin": "qiūtiān "
+  },
+  {
+    "traditional": "春天",
+    "pinyin": "chūntiān "
+  },
+  {
+    "traditional": "大家",
+    "pinyin": "dàjiā "
+  },
+  {
+    "traditional": "歲",
+    "pinyin": "suì "
+  },
+  {
+    "traditional": "年輕",
+    "pinyin": "niánqīng "
+  },
+  {
+    "traditional": "老",
+    "pinyin": "lǎo "
+  },
+  {
+    "traditional": "男",
+    "pinyin": "nán "
+  },
+  {
+    "traditional": "男生",
+    "pinyin": "nánshēng "
+  },
+  {
+    "traditional": "女",
+    "pinyin": "nǚ "
+  },
+  {
+    "traditional": "女生",
+    "pinyin": "nǚshēng "
+  },
+  {
+    "traditional": "先生",
+    "pinyin": "xiānshēng "
+  },
+  {
+    "traditional": "太太",
+    "pinyin": "tàitai "
+  },
+  {
+    "traditional": "小姐",
+    "pinyin": "xiǎojiě "
+  },
+  {
+    "traditional": "小孩",
+    "pinyin": "xiǎohái"
+  },
+  {
+    "traditional": "家",
+    "pinyin": "jiā "
+  },
+  {
+    "traditional": "家人",
+    "pinyin": "jiārén "
+  },
+  {
+    "traditional": "爸爸",
+    "pinyin": "bàba"
+  },
+  {
+    "traditional": "媽媽",
+    "pinyin": "māma"
+  },
+  {
+    "traditional": "孩子",
+    "pinyin": "háizi "
+  },
+  {
+    "traditional": "兒子",
+    "pinyin": "érzǐ"
+  },
+  {
+    "traditional": "女兒",
+    "pinyin": "nǚér "
+  },
+  {
+    "traditional": "弟弟",
+    "pinyin": "dìdi"
+  },
+  {
+    "traditional": "哥哥",
+    "pinyin": "gēge"
+  },
+  {
+    "traditional": "妹妹",
+    "pinyin": "mèimei "
+  },
+  {
+    "traditional": "姊姊/姐姐",
+    "pinyin": "jiějie"
+  },
+  {
+    "traditional": "好",
+    "pinyin": "hǎo "
+  },
+  {
+    "traditional": "真",
+    "pinyin": "zhēn "
+  },
+  {
+    "traditional": "很",
+    "pinyin": "hěn "
+  },
+  {
+    "traditional": "太",
+    "pinyin": "tài "
+  },
+  {
+    "traditional": "非常",
+    "pinyin": "fēicháng "
+  },
+  {
+    "traditional": "笑",
+    "pinyin": "xiào "
+  },
+  {
+    "traditional": "高興",
+    "pinyin": "gāoxìng "
+  },
+  {
+    "traditional": "快樂",
+    "pinyin": "kuàilè "
+  },
+  {
+    "traditional": "緊張",
+    "pinyin": "jǐnzhāng "
+  },
+  {
+    "traditional": "愛",
+    "pinyin": "ài "
+  },
+  {
+    "traditional": "喜歡",
+    "pinyin": "xǐhuān "
+  },
+  {
+    "traditional": "覺得",
+    "pinyin": "juéde"
+  },
+  {
+    "traditional": "漂亮",
+    "pinyin": "piàoliang "
+  },
+  {
+    "traditional": "好看",
+    "pinyin": "hǎokàn "
+  },
+  {
+    "traditional": "可愛",
+    "pinyin": "kěài "
+  },
+  {
+    "traditional": "胖",
+    "pinyin": "pàng "
+  },
+  {
+    "traditional": "高",
+    "pinyin": "gāo "
+  },
+  {
+    "traditional": "矮",
+    "pinyin": "ǎi "
+  },
+  {
+    "traditional": "瘦",
+    "pinyin": "shòu "
+  },
+  {
+    "traditional": "第",
+    "pinyin": "dì "
+  },
+  {
+    "traditional": "零",
+    "pinyin": "líng "
+  },
+  {
+    "traditional": "一",
+    "pinyin": "yī "
+  },
+  {
+    "traditional": "二",
+    "pinyin": "èr "
+  },
+  {
+    "traditional": "兩",
+    "pinyin": "liǎng "
+  },
+  {
+    "traditional": "三",
+    "pinyin": "sān "
+  },
+  {
+    "traditional": "四",
+    "pinyin": "sì "
+  },
+  {
+    "traditional": "五",
+    "pinyin": "wǔ "
+  },
+  {
+    "traditional": "六",
+    "pinyin": "liù "
+  },
+  {
+    "traditional": "七",
+    "pinyin": "qī "
+  },
+  {
+    "traditional": "八",
+    "pinyin": "bā "
+  },
+  {
+    "traditional": "九",
+    "pinyin": "jiǔ "
+  },
+  {
+    "traditional": "十",
+    "pinyin": "shí "
+  },
+  {
+    "traditional": "百",
+    "pinyin": "bǎi "
+  },
+  {
+    "traditional": "千",
+    "pinyin": "qiān "
+  },
+  {
+    "traditional": "萬",
+    "pinyin": "wàn "
+  },
+  {
+    "traditional": "半",
+    "pinyin": "bàn "
+  },
+  {
+    "traditional": "個",
+    "pinyin": "gè "
+  },
+  {
+    "traditional": "我",
+    "pinyin": "wǒ "
+  },
+  {
+    "traditional": "你/妳",
+    "pinyin": "nǐ "
+  },
+  {
+    "traditional": "您",
+    "pinyin": "nín "
+  },
+  {
+    "traditional": "他/她",
+    "pinyin": "tā"
+  },
+  {
+    "traditional": "我們",
+    "pinyin": "wǒmen "
+  },
+  {
+    "traditional": "你們/妳們",
+    "pinyin": "nǐmen "
+  },
+  {
+    "traditional": "他們/她們",
+    "pinyin": "tāmen"
+  },
+  {
+    "traditional": "在",
+    "pinyin": "zài "
+  },
+  {
+    "traditional": "在 ",
+    "pinyin": "zài "
+  },
+  {
+    "traditional": "從",
+    "pinyin": "cóng "
+  },
+  {
+    "traditional": "是",
+    "pinyin": "shì "
+  },
+  {
+    "traditional": "的",
+    "pinyin": "de "
+  },
+  {
+    "traditional": "誰",
+    "pinyin": "shéi "
+  },
+  {
+    "traditional": "醫院",
+    "pinyin": "yīyuàn "
+  },
+  {
+    "traditional": "辦公室",
+    "pinyin": "bàngōngshì "
+  },
+  {
+    "traditional": "工廠",
+    "pinyin": "gōngchăng "
+  },
+  {
+    "traditional": "工人",
+    "pinyin": "gōngrén "
+  },
+  {
+    "traditional": "老師",
+    "pinyin": "lǎoshī "
+  },
+  {
+    "traditional": "醫生",
+    "pinyin": "yīshēng "
+  },
+  {
+    "traditional": "護士",
+    "pinyin": "hùshì "
+  },
+  {
+    "traditional": "司機",
+    "pinyin": "sījī "
+  },
+  {
+    "traditional": "老闆/老板",
+    "pinyin": "lǎobǎn"
+  },
+  {
+    "traditional": "同事",
+    "pinyin": "tóngshì  "
+  },
+  {
+    "traditional": "公司",
+    "pinyin": "gōngsī "
+  },
+  {
+    "traditional": "買",
+    "pinyin": "mǎi "
+  },
+  {
+    "traditional": "賣",
+    "pinyin": "mài "
+  },
+  {
+    "traditional": "電腦",
+    "pinyin": "diànnǎo "
+  },
+  {
+    "traditional": "工作",
+    "pinyin": "gōngzuò "
+  },
+  {
+    "traditional": "上班",
+    "pinyin": "shàngbān "
+  },
+  {
+    "traditional": "準備",
+    "pinyin": "zhǔnbèi "
+  },
+  {
+    "traditional": "忙",
+    "pinyin": "máng "
+  },
+  {
+    "traditional": "學校",
+    "pinyin": "xuéxiào "
+  },
+  {
+    "traditional": "小學",
+    "pinyin": "xiǎoxué "
+  },
+  {
+    "traditional": "中學",
+    "pinyin": "zhōngxué "
+  },
+  {
+    "traditional": "大學",
+    "pinyin": "dàxué "
+  },
+  {
+    "traditional": "年級",
+    "pinyin": "niánjí "
+  },
+  {
+    "traditional": "學生",
+    "pinyin": "xuéshēng "
+  },
+  {
+    "traditional": "上學",
+    "pinyin": "shàngxué "
+  },
+  {
+    "traditional": "上課",
+    "pinyin": "shàngkè "
+  },
+  {
+    "traditional": "下課",
+    "pinyin": "xiàkè "
+  },
+  {
+    "traditional": "作業",
+    "pinyin": "zuòyè "
+  },
+  {
+    "traditional": "功課",
+    "pinyin": "gōngkè "
+  },
+  {
+    "traditional": "請假",
+    "pinyin": "qǐngjià "
+  },
+  {
+    "traditional": "考試",
+    "pinyin": "kǎoshì "
+  },
+  {
+    "traditional": "考試 ",
+    "pinyin": "kǎoshì "
+  },
+  {
+    "traditional": "圖書館",
+    "pinyin": "túshūguǎn "
+  },
+  {
+    "traditional": "教室",
+    "pinyin": "jiàoshì "
+  },
+  {
+    "traditional": "洗手間/廁所",
+    "pinyin": "xǐshǒujiān/cèsuǒ"
+  },
+  {
+    "traditional": "餐廳/飯館",
+    "pinyin": "cāntīng/ fànguǎn"
+  },
+  {
+    "traditional": "歷史",
+    "pinyin": "lìshĭ"
+  },
+  {
+    "traditional": "數學",
+    "pinyin": "shùxué "
+  },
+  {
+    "traditional": "語言",
+    "pinyin": "yǔyán "
+  },
+  {
+    "traditional": "科學",
+    "pinyin": "kēxué "
+  },
+  {
+    "traditional": "英文",
+    "pinyin": "yīngwén "
+  },
+  {
+    "traditional": "華語/華文",
+    "pinyin": "huáyǔ/huáwén "
+  },
+  {
+    "traditional": "黑板",
+    "pinyin": "hēibǎn "
+  },
+  {
+    "traditional": "筆",
+    "pinyin": "bǐ "
+  },
+  {
+    "traditional": "紙",
+    "pinyin": "zhǐ "
+  },
+  {
+    "traditional": "課本",
+    "pinyin": "kèběn "
+  },
+  {
+    "traditional": "本",
+    "pinyin": "běn "
+  },
+  {
+    "traditional": "字",
+    "pinyin": "zì "
+  },
+  {
+    "traditional": "句子",
+    "pinyin": "jùzi "
+  },
+  {
+    "traditional": "注意",
+    "pinyin": "zhùyì "
+  },
+  {
+    "traditional": "寫",
+    "pinyin": "xiě "
+  },
+  {
+    "traditional": "聽",
+    "pinyin": "tīng "
+  },
+  {
+    "traditional": "讀",
+    "pinyin": "dú "
+  },
+  {
+    "traditional": "讀書",
+    "pinyin": "dúshū "
+  },
+  {
+    "traditional": "說",
+    "pinyin": "shuō "
+  },
+  {
+    "traditional": "說話",
+    "pinyin": "shuōhuà "
+  },
+  {
+    "traditional": "學",
+    "pinyin": "xué "
+  },
+  {
+    "traditional": "學習",
+    "pinyin": "xuéxí "
+  },
+  {
+    "traditional": "練習",
+    "pinyin": "liànxí "
+  },
+  {
+    "traditional": "問",
+    "pinyin": "wèn "
+  },
+  {
+    "traditional": "問題",
+    "pinyin": "wèntí "
+  },
+  {
+    "traditional": "為什麼",
+    "pinyin": "wèishénme "
+  },
+  {
+    "traditional": "回答",
+    "pinyin": "huídá "
+  },
+  {
+    "traditional": "參加",
+    "pinyin": "cānjiā "
+  },
+  {
+    "traditional": "知道",
+    "pinyin": "zhīdào "
+  },
+  {
+    "traditional": "懂",
+    "pinyin": "dǒng "
+  },
+  {
+    "traditional": "能",
+    "pinyin": "néng "
+  },
+  {
+    "traditional": "會",
+    "pinyin": "huì "
+  },
+  {
+    "traditional": "可以",
+    "pinyin": "kěyǐ "
+  },
+  {
+    "traditional": "休息",
+    "pinyin": "xiūxí "
+  },
+  {
+    "traditional": "有趣",
+    "pinyin": "yǒuqù "
+  },
+  {
+    "traditional": "決定 ",
+    "pinyin": "juédìng "
+  },
+  {
+    "traditional": "張",
+    "pinyin": "zhāng "
+  },
+  {
+    "traditional": "圖片",
+    "pinyin": "túpiàn "
+  },
+  {
+    "traditional": "畫/畫兒",
+    "pinyin": "huà/huàr"
+  },
+  {
+    "traditional": "畫",
+    "pinyin": "huà"
+  },
+  {
+    "traditional": "意思",
+    "pinyin": "yìsi "
+  },
+  {
+    "traditional": "記得",
+    "pinyin": "jìdé "
+  },
+  {
+    "traditional": "一些",
+    "pinyin": "yīxiē "
+  },
+  {
+    "traditional": "一點/一點兒",
+    "pinyin": "yīdiǎn/yīdiǎnr "
+  },
+  {
+    "traditional": "房子",
+    "pinyin": "fángzi "
+  },
+  {
+    "traditional": "房間",
+    "pinyin": "fángjiān "
+  },
+  {
+    "traditional": "廚房",
+    "pinyin": "chúfáng "
+  },
+  {
+    "traditional": "客廳",
+    "pinyin": "kètīng "
+  },
+  {
+    "traditional": "門",
+    "pinyin": "mén "
+  },
+  {
+    "traditional": "窗/窗戶",
+    "pinyin": "chuānghù "
+  },
+  {
+    "traditional": "樓",
+    "pinyin": "lóu "
+  },
+  {
+    "traditional": "樓上",
+    "pinyin": "lóushàng "
+  },
+  {
+    "traditional": "樓下",
+    "pinyin": "lóuxià "
+  },
+  {
+    "traditional": "電梯",
+    "pinyin": "diàntī "
+  },
+  {
+    "traditional": "家具",
+    "pinyin": "jiājù "
+  },
+  {
+    "traditional": "椅子",
+    "pinyin": "yǐzi "
+  },
+  {
+    "traditional": "桌",
+    "pinyin": "zhuō "
+  },
+  {
+    "traditional": "沙發",
+    "pinyin": "shāfā "
+  },
+  {
+    "traditional": "床",
+    "pinyin": "chuáng "
+  },
+  {
+    "traditional": "開",
+    "pinyin": "kāi "
+  },
+  {
+    "traditional": "關",
+    "pinyin": "guān "
+  },
+  {
+    "traditional": "電視",
+    "pinyin": "diànshì "
+  },
+  {
+    "traditional": "冷氣",
+    "pinyin": "lěngqì "
+  },
+  {
+    "traditional": "洗澡",
+    "pinyin": "xǐzǎo "
+  },
+  {
+    "traditional": "安靜",
+    "pinyin": "ānjìng "
+  },
+  {
+    "traditional": "不錯",
+    "pinyin": "bùcuò "
+  },
+  {
+    "traditional": "河",
+    "pinyin": "hé "
+  },
+  {
+    "traditional": "海",
+    "pinyin": "hǎi "
+  },
+  {
+    "traditional": "海邊",
+    "pinyin": "hǎibiān "
+  },
+  {
+    "traditional": "湖",
+    "pinyin": "hú "
+  },
+  {
+    "traditional": "山",
+    "pinyin": "shān "
+  },
+  {
+    "traditional": "樹",
+    "pinyin": "shù "
+  },
+  {
+    "traditional": "花/花兒",
+    "pinyin": "huā/huār"
+  },
+  {
+    "traditional": "馬",
+    "pinyin": "mǎ "
+  },
+  {
+    "traditional": "狗",
+    "pinyin": "gǒu "
+  },
+  {
+    "traditional": "鳥",
+    "pinyin": "niǎo"
+  },
+  {
+    "traditional": "貓",
+    "pinyin": "māo "
+  },
+  {
+    "traditional": "雞",
+    "pinyin": "jī "
+  },
+  {
+    "traditional": "魚/魚兒",
+    "pinyin": "yú/yúr "
+  },
+  {
+    "traditional": "太陽",
+    "pinyin": "tàiyáng "
+  },
+  {
+    "traditional": "水",
+    "pinyin": "shuǐ "
+  },
+  {
+    "traditional": "天氣",
+    "pinyin": "tiānqì "
+  },
+  {
+    "traditional": "冷",
+    "pinyin": "lěng "
+  },
+  {
+    "traditional": "熱",
+    "pinyin": "rè "
+  },
+  {
+    "traditional": "下雨",
+    "pinyin": "xiàyǔ "
+  },
+  {
+    "traditional": "下雪",
+    "pinyin": "xiàxuě "
+  },
+  {
+    "traditional": "風",
+    "pinyin": "fēng "
+  },
+  {
+    "traditional": "穿",
+    "pinyin": "chuān "
+  },
+  {
+    "traditional": "睡覺",
+    "pinyin": "shuìjiào "
+  },
+  {
+    "traditional": "起床",
+    "pinyin": "qǐchuáng "
+  },
+  {
+    "traditional": "咖啡",
+    "pinyin": "kāfēi "
+  },
+  {
+    "traditional": "茶",
+    "pinyin": "chá "
+  },
+  {
+    "traditional": "洗",
+    "pinyin": "xǐ "
+  },
+  {
+    "traditional": "方便",
+    "pinyin": "fāngbiàn "
+  },
+  {
+    "traditional": "生活",
+    "pinyin": "shēnghuó "
+  },
+  {
+    "traditional": "用",
+    "pinyin": "yòng "
+  },
+  {
+    "traditional": "新年",
+    "pinyin": "xīnnián "
+  },
+  {
+    "traditional": "開始",
+    "pinyin": "kāishǐ "
+  },
+  {
+    "traditional": "運動",
+    "pinyin": "yùndòng "
+  },
+  {
+    "traditional": "運動 ",
+    "pinyin": "yùndòng "
+  },
+  {
+    "traditional": "游泳",
+    "pinyin": "yóuyǒng "
+  },
+  {
+    "traditional": "踢",
+    "pinyin": "tī "
+  },
+  {
+    "traditional": "足球",
+    "pinyin": "zúqiú "
+  },
+  {
+    "traditional": "打",
+    "pinyin": "dǎ "
+  },
+  {
+    "traditional": "籃球",
+    "pinyin": "lánqiú "
+  },
+  {
+    "traditional": "網球",
+    "pinyin": "wǎngqiú "
+  },
+  {
+    "traditional": "棒球",
+    "pinyin": "bàngqiú "
+  },
+  {
+    "traditional": "比賽",
+    "pinyin": "bǐsài "
+  },
+  {
+    "traditional": "比賽 ",
+    "pinyin": "bǐsài "
+  },
+  {
+    "traditional": "騎",
+    "pinyin": "qí "
+  },
+  {
+    "traditional": "腳踏車/自行車",
+    "pinyin": "jiǎotàchē/zìxíngchē "
+  },
+  {
+    "traditional": "跑",
+    "pinyin": "pǎo "
+  },
+  {
+    "traditional": "跑步",
+    "pinyin": "pǎobù "
+  },
+  {
+    "traditional": "走",
+    "pinyin": "zǒu "
+  },
+  {
+    "traditional": "走路",
+    "pinyin": "zǒulù "
+  },
+  {
+    "traditional": "電影",
+    "pinyin": "diànyǐng "
+  },
+  {
+    "traditional": "電影院",
+    "pinyin": "diànyǐngyuàn "
+  },
+  {
+    "traditional": "票",
+    "pinyin": "piào "
+  },
+  {
+    "traditional": "音樂",
+    "pinyin": "yīnyuè "
+  },
+  {
+    "traditional": "表演",
+    "pinyin": "biǎoyǎn "
+  },
+  {
+    "traditional": "看",
+    "pinyin": "kàn "
+  },
+  {
+    "traditional": "上網",
+    "pinyin": "shàngwǎng "
+  },
+  {
+    "traditional": "以前",
+    "pinyin": "yǐqián "
+  },
+  {
+    "traditional": "以後",
+    "pinyin": "yǐhòu "
+  },
+  {
+    "traditional": "等",
+    "pinyin": "děng "
+  },
+  {
+    "traditional": "輸",
+    "pinyin": "shū "
+  },
+  {
+    "traditional": "贏",
+    "pinyin": "yíng "
+  },
+  {
+    "traditional": "有時候",
+    "pinyin": "yǒushíhòu "
+  },
+  {
+    "traditional": "常常",
+    "pinyin": "chángcháng "
+  },
+  {
+    "traditional": "久",
+    "pinyin": "jiǔ "
+  },
+  {
+    "traditional": "先",
+    "pinyin": "xiān "
+  },
+  {
+    "traditional": "再",
+    "pinyin": "zài "
+  },
+  {
+    "traditional": "每",
+    "pinyin": "měi "
+  },
+  {
+    "traditional": "次",
+    "pinyin": "cì "
+  },
+  {
+    "traditional": "報紙",
+    "pinyin": "bàozhǐ "
+  },
+  {
+    "traditional": "照片",
+    "pinyin": "zhàopiàn "
+  },
+  {
+    "traditional": "書",
+    "pinyin": "shū "
+  },
+  {
+    "traditional": "唱歌/唱歌兒",
+    "pinyin": "chànggē/chànggēr "
+  },
+  {
+    "traditional": "玩/玩兒",
+    "pinyin": "wán/wánr "
+  },
+  {
+    "traditional": "朋友",
+    "pinyin": "péngyǒu "
+  },
+  {
+    "traditional": "介紹",
+    "pinyin": "jièshào "
+  },
+  {
+    "traditional": "認識",
+    "pinyin": "rènshi "
+  },
+  {
+    "traditional": "謝謝",
+    "pinyin": "xièxie"
+  },
+  {
+    "traditional": "不客氣",
+    "pinyin": "bùkèqì "
+  },
+  {
+    "traditional": "對不起",
+    "pinyin": "duìbuqǐ "
+  },
+  {
+    "traditional": "沒關係",
+    "pinyin": "méiguānxi "
+  },
+  {
+    "traditional": "再見",
+    "pinyin": "zàijiàn "
+  },
+  {
+    "traditional": "請問",
+    "pinyin": "qǐngwèn "
+  },
+  {
+    "traditional": "怎麼樣",
+    "pinyin": "zěnmeyàng "
+  },
+  {
+    "traditional": "禮物",
+    "pinyin": "lǐwù "
+  },
+  {
+    "traditional": "歡迎",
+    "pinyin": "huānyíng "
+  },
+  {
+    "traditional": "晚會",
+    "pinyin": "wǎnhuì "
+  },
+  {
+    "traditional": "做",
+    "pinyin": "zuò "
+  },
+  {
+    "traditional": "信",
+    "pinyin": "xìn "
+  },
+  {
+    "traditional": "信封",
+    "pinyin": "xìnfēng "
+  },
+  {
+    "traditional": "寄",
+    "pinyin": "jì "
+  },
+  {
+    "traditional": "接",
+    "pinyin": "jiē "
+  },
+  {
+    "traditional": "郵局",
+    "pinyin": "yóujú "
+  },
+  {
+    "traditional": "銀行",
+    "pinyin": "yínháng "
+  },
+  {
+    "traditional": "警察",
+    "pinyin": "jǐngchá "
+  },
+  {
+    "traditional": "壞",
+    "pinyin": "huài "
+  },
+  {
+    "traditional": "幫忙",
+    "pinyin": "bāngmáng "
+  },
+  {
+    "traditional": "換",
+    "pinyin": "huàn "
+  },
+  {
+    "traditional": "東西",
+    "pinyin": "dōngxi "
+  },
+  {
+    "traditional": "叫",
+    "pinyin": "jiào "
+  },
+  {
+    "traditional": "找",
+    "pinyin": "zhǎo "
+  },
+  {
+    "traditional": "什麼/甚麼",
+    "pinyin": "shénme"
+  },
+  {
+    "traditional": "嗎",
+    "pinyin": "ma"
+  },
+  {
+    "traditional": "呢",
+    "pinyin": "ne "
+  },
+  {
+    "traditional": "喂/喂",
+    "pinyin": "wéi/wèi"
+  },
+  {
+    "traditional": "吧",
+    "pinyin": "ba "
+  },
+  {
+    "traditional": "計程車",
+    "pinyin": "jìchéngchē "
+  },
+  {
+    "traditional": "地鐵",
+    "pinyin": "dìtiě "
+  },
+  {
+    "traditional": "車站",
+    "pinyin": "chēzhàn "
+  },
+  {
+    "traditional": "火車",
+    "pinyin": "huǒchē "
+  },
+  {
+    "traditional": "飛機",
+    "pinyin": "fēijī "
+  },
+  {
+    "traditional": "飛機場/機場",
+    "pinyin": "fēijīchǎng/jīchǎng "
+  },
+  {
+    "traditional": "公共汽車/公車",
+    "pinyin": "gōnggòngqìchē/gōngchē "
+  },
+  {
+    "traditional": "車",
+    "pinyin": "chē "
+  },
+  {
+    "traditional": "開車",
+    "pinyin": "kāichē "
+  },
+  {
+    "traditional": "帶",
+    "pinyin": "dài "
+  },
+  {
+    "traditional": "去",
+    "pinyin": "qù "
+  },
+  {
+    "traditional": "出去",
+    "pinyin": "chūqù "
+  },
+  {
+    "traditional": "進來",
+    "pinyin": "jìnlái "
+  },
+  {
+    "traditional": "回",
+    "pinyin": "huí "
+  },
+  {
+    "traditional": "馬路",
+    "pinyin": "mǎlù "
+  },
+  {
+    "traditional": "十字路口",
+    "pinyin": "shízìlùkǒu "
+  },
+  {
+    "traditional": "中間",
+    "pinyin": "zhōngjiān "
+  },
+  {
+    "traditional": "對面",
+    "pinyin": "duìmiàn "
+  },
+  {
+    "traditional": "附近",
+    "pinyin": "fùjìn "
+  },
+  {
+    "traditional": "旁邊",
+    "pinyin": "pángbiān"
+  },
+  {
+    "traditional": "後",
+    "pinyin": "hòu"
+  },
+  {
+    "traditional": "前",
+    "pinyin": "qián "
+  },
+  {
+    "traditional": "左邊",
+    "pinyin": "zuǒbiān"
+  },
+  {
+    "traditional": "右邊",
+    "pinyin": "yòubiān"
+  },
+  {
+    "traditional": "外面",
+    "pinyin": "wàimiàn "
+  },
+  {
+    "traditional": "裡面",
+    "pinyin": "lǐmiàn "
+  },
+  {
+    "traditional": "下",
+    "pinyin": "xià"
+  },
+  {
+    "traditional": "上",
+    "pinyin": "shàng"
+  },
+  {
+    "traditional": "這",
+    "pinyin": "zhè "
+  },
+  {
+    "traditional": "那",
+    "pinyin": "nà "
+  },
+  {
+    "traditional": "哪",
+    "pinyin": "nǎ "
+  },
+  {
+    "traditional": "這裡/這兒",
+    "pinyin": "zhèlǐ/zhèr "
+  },
+  {
+    "traditional": "那裡/那兒",
+    "pinyin": "nàlǐ/nàr "
+  },
+  {
+    "traditional": "哪裡/哪兒",
+    "pinyin": "nǎlǐ/nǎr "
+  },
+  {
+    "traditional": "怎麼",
+    "pinyin": "zěnme "
+  },
+  {
+    "traditional": "旅行",
+    "pinyin": "lǚxíng "
+  },
+  {
+    "traditional": "飯店",
+    "pinyin": "fàndiàn "
+  },
+  {
+    "traditional": "旅館",
+    "pinyin": "lǚguǎn "
+  },
+  {
+    "traditional": "地方",
+    "pinyin": "dìfāng "
+  },
+  {
+    "traditional": "參觀",
+    "pinyin": "cānguān "
+  },
+  {
+    "traditional": "遠",
+    "pinyin": "yuǎn "
+  },
+  {
+    "traditional": "近",
+    "pinyin": "jìn "
+  },
+  {
+    "traditional": "快",
+    "pinyin": "kuài "
+  },
+  {
+    "traditional": "慢",
+    "pinyin": "màn "
+  },
+  {
+    "traditional": "站",
+    "pinyin": "zhàn "
+  },
+  {
+    "traditional": "坐",
+    "pinyin": "zuò "
+  },
+  {
+    "traditional": "離",
+    "pinyin": "lí "
+  },
+  {
+    "traditional": "往",
+    "pinyin": "wǎng "
+  },
+  {
+    "traditional": "送",
+    "pinyin": "sòng "
+  },
+  {
+    "traditional": "地圖",
+    "pinyin": "dìtú "
+  },
+  {
+    "traditional": "過",
+    "pinyin": "guò "
+  },
+  {
+    "traditional": "拿",
+    "pinyin": "ná "
+  },
+  {
+    "traditional": "放",
+    "pinyin": "fàng "
+  },
+  {
+    "traditional": "到",
+    "pinyin": "dào "
+  },
+  {
+    "traditional": "照相機",
+    "pinyin": "zhàoxiàngjī "
+  },
+  {
+    "traditional": "照相",
+    "pinyin": "zhàoxiàng "
+  },
+  {
+    "traditional": "風景",
+    "pinyin": "fēngjǐng "
+  },
+  {
+    "traditional": "眼睛",
+    "pinyin": "yǎnjīng "
+  },
+  {
+    "traditional": "身體",
+    "pinyin": "shēntǐ "
+  },
+  {
+    "traditional": "頭",
+    "pinyin": "tóu "
+  },
+  {
+    "traditional": "頭髮",
+    "pinyin": "tóufǎ "
+  },
+  {
+    "traditional": "耳朵",
+    "pinyin": "ěrduo"
+  },
+  {
+    "traditional": "手",
+    "pinyin": "shǒu "
+  },
+  {
+    "traditional": "手指",
+    "pinyin": "shǒuzhǐ"
+  },
+  {
+    "traditional": "肚子",
+    "pinyin": "dùzi "
+  },
+  {
+    "traditional": "累",
+    "pinyin": "lèi "
+  },
+  {
+    "traditional": "健康",
+    "pinyin": "jiànkāng "
+  },
+  {
+    "traditional": "感冒",
+    "pinyin": "gǎnmào "
+  },
+  {
+    "traditional": "生病",
+    "pinyin": "shēngbìng "
+  },
+  {
+    "traditional": "受傷",
+    "pinyin": "shòushāng  "
+  },
+  {
+    "traditional": "餓",
+    "pinyin": "è "
+  },
+  {
+    "traditional": "渴",
+    "pinyin": "kě "
+  },
+  {
+    "traditional": "舒服",
+    "pinyin": "shūfu"
+  },
+  {
+    "traditional": "藥",
+    "pinyin": "yào "
+  },
+  {
+    "traditional": "眼鏡",
+    "pinyin": "yǎnjìng "
+  },
+  {
+    "traditional": "痛",
+    "pinyin": "tòng "
+  },
+  {
+    "traditional": "想",
+    "pinyin": "xiǎng "
+  },
+  {
+    "traditional": "希望",
+    "pinyin": "xīwàng "
+  },
+  {
+    "traditional": "便宜",
+    "pinyin": "piányi "
+  },
+  {
+    "traditional": "貴",
+    "pinyin": "guì "
+  },
+  {
+    "traditional": "容易",
+    "pinyin": "róngyì "
+  },
+  {
+    "traditional": "難",
+    "pinyin": "nán "
+  },
+  {
+    "traditional": "要",
+    "pinyin": "yào "
+  },
+  {
+    "traditional": "好吃",
+    "pinyin": "hǎochī "
+  },
+  {
+    "traditional": "商店",
+    "pinyin": "shāngdiàn "
+  },
+  {
+    "traditional": "店",
+    "pinyin": "diàn "
+  },
+  {
+    "traditional": "市場",
+    "pinyin": "shìchǎng "
+  },
+  {
+    "traditional": "重要",
+    "pinyin": "zhòngyào "
+  },
+  {
+    "traditional": "給",
+    "pinyin": "gěi "
+  },
+  {
+    "traditional": "給 ",
+    "pinyin": "gěi "
+  },
+  {
+    "traditional": "有",
+    "pinyin": "yǒu "
+  },
+  {
+    "traditional": "公斤",
+    "pinyin": "gōngjīn "
+  },
+  {
+    "traditional": "顏色",
+    "pinyin": "yánsè "
+  },
+  {
+    "traditional": "黃色",
+    "pinyin": "huángsè "
+  },
+  {
+    "traditional": "白色",
+    "pinyin": "báisè "
+  },
+  {
+    "traditional": "衣服",
+    "pinyin": "yīfu"
+  },
+  {
+    "traditional": "襪子",
+    "pinyin": "wàzi "
+  },
+  {
+    "traditional": "褲子",
+    "pinyin": "kùzi "
+  },
+  {
+    "traditional": "裙子",
+    "pinyin": "qúnzi "
+  },
+  {
+    "traditional": "鞋子",
+    "pinyin": "xiézi "
+  },
+  {
+    "traditional": "雙",
+    "pinyin": "shuāng "
+  },
+  {
+    "traditional": "大",
+    "pinyin": "dà "
+  },
+  {
+    "traditional": "長",
+    "pinyin": "cháng "
+  },
+  {
+    "traditional": "小",
+    "pinyin": "xiǎo "
+  },
+  {
+    "traditional": "短",
+    "pinyin": "duǎn "
+  },
+  {
+    "traditional": "新",
+    "pinyin": "xīn "
+  },
+  {
+    "traditional": "錢",
+    "pinyin": "qián "
+  },
+  {
+    "traditional": "元",
+    "pinyin": "yuán "
+  },
+  {
+    "traditional": "比",
+    "pinyin": "bǐ "
+  },
+  {
+    "traditional": "多少",
+    "pinyin": "duōshǎo "
+  },
+  {
+    "traditional": "小心",
+    "pinyin": "xiǎoxīn "
+  },
+  {
+    "traditional": "一樣",
+    "pinyin": "yīyàng "
+  },
+  {
+    "traditional": "牛奶",
+    "pinyin": "niúnǎi "
+  },
+  {
+    "traditional": "肉",
+    "pinyin": "ròu "
+  },
+  {
+    "traditional": "蛋",
+    "pinyin": "dàn "
+  },
+  {
+    "traditional": "菜",
+    "pinyin": "cài "
+  },
+  {
+    "traditional": "餃子",
+    "pinyin": "jiǎozi "
+  },
+  {
+    "traditional": "飯",
+    "pinyin": "fàn "
+  },
+  {
+    "traditional": "麵",
+    "pinyin": "miàn "
+  },
+  {
+    "traditional": "湯",
+    "pinyin": "tāng "
+  },
+  {
+    "traditional": "包子",
+    "pinyin": "bāozi "
+  },
+  {
+    "traditional": "蛋糕",
+    "pinyin": "dàngāo "
+  },
+  {
+    "traditional": "麵包",
+    "pinyin": "miànbāo "
+  },
+  {
+    "traditional": "水果",
+    "pinyin": "shuǐguǒ "
+  },
+  {
+    "traditional": "蘋果",
+    "pinyin": "píngguǒ "
+  },
+  {
+    "traditional": "香蕉",
+    "pinyin": "xiāngjiāo "
+  },
+  {
+    "traditional": "食物",
+    "pinyin": "shíwù "
+  },
+  {
+    "traditional": "飲料",
+    "pinyin": "yǐnliào "
+  },
+  {
+    "traditional": "果汁",
+    "pinyin": "guǒzhī "
+  },
+  {
+    "traditional": "酒",
+    "pinyin": "jiǔ "
+  },
+  {
+    "traditional": "杯",
+    "pinyin": "bēi "
+  },
+  {
+    "traditional": "杯子",
+    "pinyin": "bēizi "
+  },
+  {
+    "traditional": "請",
+    "pinyin": "qǐng "
+  },
+  {
+    "traditional": "吃",
+    "pinyin": "chī "
+  },
+  {
+    "traditional": "喝",
+    "pinyin": "hē "
+  },
+  {
+    "traditional": "多",
+    "pinyin": "duō "
+  },
+  {
+    "traditional": "多 ",
+    "pinyin": "duō "
+  },
+  {
+    "traditional": "少",
+    "pinyin": "shǎo "
+  },
+  {
+    "traditional": "甜",
+    "pinyin": "tián "
+  },
+  {
+    "traditional": "菜單",
+    "pinyin": "càidān "
+  },
+  {
+    "traditional": "巧克力",
+    "pinyin": "qiǎokèlì "
+  },
+  {
+    "traditional": "幾",
+    "pinyin": "jǐ "
+  },
+  {
+    "traditional": "塊",
+    "pinyin": "kuài "
+  },
+  {
+    "traditional": "碗",
+    "pinyin": "wǎn "
+  },
+  {
+    "traditional": "盤子",
+    "pinyin": "pánzi "
+  },
+  {
+    "traditional": "片",
+    "pinyin": "piàn "
+  },
+  {
+    "traditional": "瓶",
+    "pinyin": "píng "
+  },
+  {
+    "traditional": "件",
+    "pinyin": "jiàn "
+  },
+  {
+    "traditional": "一半/一半兒",
+    "pinyin": "yībàn/yībànr"
+  },
+  {
+    "traditional": "因為",
+    "pinyin": "yīnwèi "
+  },
+  {
+    "traditional": "所以",
+    "pinyin": "suǒyǐ "
+  },
+  {
+    "traditional": "可是",
+    "pinyin": "kěshì "
+  },
+  {
+    "traditional": "和",
+    "pinyin": "hé "
+  },
+  {
+    "traditional": "跟",
+    "pinyin": "gēn "
+  },
+  {
+    "traditional": "一起",
+    "pinyin": "yīqǐ "
+  },
+  {
+    "traditional": "沒",
+    "pinyin": "méi "
+  },
+  {
+    "traditional": "不",
+    "pinyin": "bù"
+  },
+  {
+    "traditional": "也",
+    "pinyin": "yě "
+  },
+  {
+    "traditional": "都",
+    "pinyin": "dōu "
+  },
+  {
+    "traditional": "只",
+    "pinyin": "zhǐ"
+  },
+  {
+    "traditional": "得",
+    "pinyin": "dé"
+  },
+  {
+    "traditional": "了",
+    "pinyin": "le"
+  },
+  {
+    "traditional": "著",
+    "pinyin": "zhe "
+  },
+  {
+    "traditional": "過 ",
+    "pinyin": "guò "
+  },
+  {
+    "traditional": "還是",
+    "pinyin": "háishì "
+  },
+  {
+    "traditional": "可能",
+    "pinyin": "kěnéng "
+  },
+  {
+    "traditional": "一定",
+    "pinyin": "yīdìng "
+  }
+]
